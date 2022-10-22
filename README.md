@@ -22,6 +22,12 @@ First we need to manually annotate the dataset in order to train our model. Henc
 
 ### Object detection model
 
+Yolov5 model by ultralytics was used to predict bouding boxes of sections
+https://github.com/ultralytics/yolov5
+
+## Results
+![Part_5_seventh](https://user-images.githubusercontent.com/85446106/197361365-62de2a7e-3bf0-46d8-8c84-bfef72837710.PNG)
+
 
 
 
