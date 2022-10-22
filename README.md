@@ -1,5 +1,9 @@
 # MT_Samples-Section-Detection
 
+###Objective 
+
+Perform object detection on the MT samples to identify different sections and extract text from specific sections using OCR.
+
 ### Dataset
 
 This dataset contains sample medical transcriptions for various medical specialties.
