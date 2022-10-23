@@ -36,9 +36,11 @@ Now using these predictions, we can feed the cropped sections into the trained O
 ## Results
 
 Metric Scores
+
 <img width="546" alt="image" src="https://user-images.githubusercontent.com/85446106/197379558-0b8af5ff-bb8a-460b-a095-01023d416391.png">
 
 Inference time
+
 ![Part_5_sixth](https://user-images.githubusercontent.com/85446106/197379625-ffa24f29-56ea-48bf-853c-8a6c54352ba7.PNG)
 
 
