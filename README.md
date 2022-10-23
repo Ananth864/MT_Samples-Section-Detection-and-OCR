@@ -43,7 +43,9 @@ Inference time
 
 ![Part_5_sixth](https://user-images.githubusercontent.com/85446106/197379625-ffa24f29-56ea-48bf-853c-8a6c54352ba7.PNG)
 
+Predictions on a document
 
+![Part_5_third](https://user-images.githubusercontent.com/85446106/197379669-0e55a4fe-0784-47aa-850e-fe8170849767.png)
 
 
 
