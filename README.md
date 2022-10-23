@@ -48,6 +48,7 @@ Predictions on a document
 <img width="372" alt="image" src="https://user-images.githubusercontent.com/85446106/197379775-bb828e39-9c51-4313-8d58-1eb3a305f8ba.png">
 
 Link to the trained pt model
+
 https://drive.google.com/file/d/1KcHvtFPJQU6s2blfgc7TsP0GNZbNeIok/view?usp=sharing
 
 
