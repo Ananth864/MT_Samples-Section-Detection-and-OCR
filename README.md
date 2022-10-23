@@ -47,7 +47,7 @@ Predictions on a document
 
 <img src="https://user-images.githubusercontent.com/85446106/197379669-0e55a4fe-0784-47aa-850e-fe8170849767.png" width="450" height="600">
 
-![Part_5_third](https://user-images.githubusercontent.com/85446106/197379741-b4d1e982-415e-4e90-a22b-aa6b9d5a5d12.png)
+<img width="372" alt="image" src="https://user-images.githubusercontent.com/85446106/197379775-bb828e39-9c51-4313-8d58-1eb3a305f8ba.png">
 
 
 
