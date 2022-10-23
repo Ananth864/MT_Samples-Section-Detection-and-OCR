@@ -34,7 +34,13 @@ hyperparameters: lr0=0.01, lrf=0.01, momentum=0.937, weight_decay=0.0005, warmup
 Now using these predictions, we can feed the cropped sections into the trained OCR machine to extract the text. In this case PaddleOCR was used for its low inference time and good accuracy.
 
 ## Results
-![Part_5_seventh](https://user-images.githubusercontent.com/85446106/197361365-62de2a7e-3bf0-46d8-8c84-bfef72837710.PNG)
+
+Metric Scores
+<img width="546" alt="image" src="https://user-images.githubusercontent.com/85446106/197379558-0b8af5ff-bb8a-460b-a095-01023d416391.png">
+
+Inference time
+![Part_5_sixth](https://user-images.githubusercontent.com/85446106/197379625-ffa24f29-56ea-48bf-853c-8a6c54352ba7.PNG)
+
 
 
 
