@@ -51,6 +51,8 @@ Link to the trained pt model
 
 https://drive.google.com/file/d/1KcHvtFPJQU6s2blfgc7TsP0GNZbNeIok/view?usp=sharing
 
+Fine-tuned PaddleOCR on predicted line croppings with a WER of 9\%
+
 
 
 
